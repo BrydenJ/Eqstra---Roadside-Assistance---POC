@@ -1,0 +1,28 @@
+{
+  "ProjectName": "Eqstra - Roadside Assistance - POC Native",
+  "ProjectGuid": "ff4d21c7-c03b-46b6-ad80-f673f1cf45be",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.EqstraRoadsideAssistancePOCNative",
+  "DisplayName": "Eqstra - Roadside Assistance - POC Native",
+  "Author": "",
+  "Description": "Eqstra - Roadside Assistance - POC Native",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.1.2",
+  "Framework": "NativeScript"
+}
