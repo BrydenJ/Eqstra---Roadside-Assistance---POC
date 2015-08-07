@@ -33,6 +33,22 @@
       "title": "Home",
       "addToNavigation": true,
       "icon": "home"
+    },
+    {
+      "type": "view",
+      "components": [],
+      "name": "roadsideAssistanceView",
+      "title": "Roadside Assistance",
+      "addToNavigation": true,
+      "icon": "add"
+    },
+    {
+      "type": "view",
+      "components": [],
+      "name": "accidentTheftView",
+      "title": "Accident/Theft Assistance",
+      "addToNavigation": true,
+      "icon": "add"
     }
   ],
   "dataProviders": [

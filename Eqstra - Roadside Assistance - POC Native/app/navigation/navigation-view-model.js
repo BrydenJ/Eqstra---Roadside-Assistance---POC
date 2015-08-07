@@ -7,6 +7,14 @@ menuItems = [{
     "title": "Home",
     "modulePath": "components/home/home",
     "icon": "~/images/icons/home.png"
+}, {
+    "title": "Roadside Assistance",
+    "modulePath": "components/roadsideAssistanceView/roadsideAssistanceView",
+    "icon": "~/images/icons/add.png"
+}, {
+    "title": "Accident/Theft Assistance",
+    "modulePath": "components/accidentTheftView/accidentTheftView",
+    "icon": "~/images/icons/add.png"
 }];
 
 navigationViewModel.set('menuItems', menuItems);
