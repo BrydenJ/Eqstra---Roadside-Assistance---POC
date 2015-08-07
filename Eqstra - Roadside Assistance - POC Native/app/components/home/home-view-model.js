@@ -4,7 +4,7 @@ var ViewModel,
 
 ViewModel = new Observable({
 
-    pageTitle: 'Home',
+    pageTitle: 'Dashboard',
     // additional properties
 });
 

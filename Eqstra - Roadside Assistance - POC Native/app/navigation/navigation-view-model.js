@@ -4,7 +4,7 @@ var menuItems,
     navigationViewModel = new observable.Observable();
 
 menuItems = [{
-    "title": "Home",
+    "title": "Dashboard",
     "modulePath": "components/home/home",
     "icon": "~/images/icons/home.png"
 }, {
